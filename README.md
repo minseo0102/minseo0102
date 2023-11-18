@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&text=BeginAgain&fontColor=3E2723&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ### Hi there 👋
-<img src="https://img.shields.io/badge/-F8C517?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/ c++-FF8800?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-C5E1A5?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/-F8C517?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/ c++-FF8800?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-C5E1A5?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+
 <!--
 //MysQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
