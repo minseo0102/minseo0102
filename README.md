@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=F8BBD0&text=BeginAgain&fontColor=3E2723&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0102&show_icons=true&theme=omni)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms4718275)](https://solved.ac/kms4718275/)
 
 # 💪Skills
 ### Platforms & Languages
@@ -10,6 +8,8 @@
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0102&show_icons=true&theme=omni)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms4718275)](https://solved.ac/kms4718275/)
 
 # :mailbox_with_mail: Contacts
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
