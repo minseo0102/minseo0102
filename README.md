@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=180&color=F8BBD0&text=BeginAgain&fontColor=3e2723&fontSize=100&animation=fadeIn&fontAlignY=45)
 
 # 💪Skills
-### Platforms & Languages
+### Languages & Frameworks
 <img src="https://img.shields.io/badge/C-F8C517?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/ c++-FF8800?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-C5E1A5?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 <!--
