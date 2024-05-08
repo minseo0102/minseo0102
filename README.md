@@ -2,7 +2,7 @@
 
 # 💪Skills
 ### Languages
-<img src="https://img.shields.io/badge/C-F8C517?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/ c++-FF8800?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-C5E1A5?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/C-F8C517?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/ c++-FF8800?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-C5E1A5?style=for-the-badge&logo=java&logoColor=white"> 
 
 <!--
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -13,7 +13,7 @@
 ### Database
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0102&show_icons=true&theme=omni)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms4718275)](https://solved.ac/kms4718275/)
